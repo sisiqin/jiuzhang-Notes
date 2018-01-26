@@ -5,3 +5,6 @@ questions:
   - 414 divide two integers : too many cornor cases, haven't figure out 
   
 ### ch3 binary tree divide & conquer 
+
+do these: 
+  - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
