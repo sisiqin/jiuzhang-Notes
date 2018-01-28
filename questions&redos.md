@@ -11,4 +11,8 @@ do these:
 
 questions: 
   
-  - 376. Binary Tree Path Sum 解法里用到了回溯， why ？  https://repl.it/@sisi/113m-Path-Sum-II 
+  - 376. Binary Tree Path Sum 解法里用到了回溯， why ? 
+  
+  - Solution:  https://repl.it/@sisi/113mPathSum-clean
+** 为什么要回溯 **   -- 见图 
+
